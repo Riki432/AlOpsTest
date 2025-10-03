@@ -11,6 +11,7 @@
   "url": "",
   "logo": "",
   "dependencies": [],
+  "runtime": "15.1",
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
