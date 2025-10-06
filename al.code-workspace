@@ -4,6 +4,9 @@
       "path": "AlOpsTest"
     },
     {
+      "path": "AlOpsTest.Test"
+    },
+    {
       "path": ".AL-Go"
     }
   ],
